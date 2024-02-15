@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coach</string>
+    <string name="pds">Poids</string>
+    <string name="age">Age</string>
+    <string name="taille">Taille</string>
+    <string name="H">Homme</string>
+    <string name="F">Femme</string>
+    <string name="Calc">Calculer</string>
+    <string name="img_pic_content_description">img_picture</string>
+
+</resources>
